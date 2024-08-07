@@ -55,7 +55,7 @@ namespace STX.Standard.CleanMock.Infrastructure.Build.Services
 
                                     With = new TargetDotNetVersionV3
                                     {
-                                        DotNetVersion = "8.0.7"
+                                        DotNetVersion = "8.0.303"
                                     }
                                 },
 
