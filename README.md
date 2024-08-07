@@ -1,13 +1,15 @@
-# [REPOSITORY NAME]
+![STX.EFxceptions.Core](https://raw.githubusercontent.com/The-Standard-Organization/STX.Standard.CleanMock/main/Resources/Images/cleanmock_git_logo.png)
 
-[ADD BUILD TILE]
-[![The Standard](https://img.shields.io/github/v/release/hassanhabib/The-Standard?filter=v2.10.2&style=default&label=Standard%20Version&color=2ea44f)](https://github.com/hassanhabib/The-Standard)
+[![Build](https://github.com/The-Standard-Organization/STX.Standard.CleanMock/actions/workflows/build.yml/badge.svg)](https://github.com/The-Standard-Organization/STX.Standard.CleanMock/actions/workflows/build.yml)
+[![The Standard](https://img.shields.io/github/v/release/hassanhabib/The-Standard?filter=v2.10.3&style=default&label=Standard%20Version&color=2ea44f)](https://github.com/hassanhabib/The-Standard)
 [![The Standard - COMPLIANT](https://img.shields.io/badge/The_Standard-COMPLIANT-2ea44f)](https://github.com/hassanhabib/The-Standard)
 [![The Standard Community](https://img.shields.io/discord/934130100008538142?color=%237289da&label=The%20Standard%20Community&logo=Discord)](https://discord.gg/vdPZ7hS52X)
 
+# STX.Standard.CleanMock
+
 ## Introduction
 
-[Add Introduction Here]
+CleanMock is a mocking library for .NET developers to take full advantage of .NET, with type-safe and refactor-friendly mocking libraries available. And it supports mocking interfaces as well as classes. It is built on proven Standard principles, and doesn't require any prior knowledge or experience with mocking concepts.
 
 ## Standard-Compliance
 This library was built according to The Standard. The library follows engineering principles, patterns and tooling as recommended by [The Standard](https://github.com/hassanhabib/The-Standard).
@@ -46,4 +48,4 @@ A special thanks to all the community members, and the following dedicated engin
 >
 >Mr. Christo du Toit
 >
->Mr. Gregory Hayes
+>Mr. Gregory Hays
