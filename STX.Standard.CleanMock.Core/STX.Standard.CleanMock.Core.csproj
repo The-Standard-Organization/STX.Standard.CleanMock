@@ -47,6 +47,8 @@
 
   <ItemGroup>
     <InternalsVisibleTo Include="STX.Standard.CleanMock.Tests.Unit"/>
+    <InternalsVisibleTo Include="STX.Standard.CleanMock.Tests.Acceptance"/>
+    <InternalsVisibleTo Include="DynamicProxyGenAssembly2" />
   </ItemGroup>
 
 </Project>
